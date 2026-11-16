@@ -1,0 +1,5 @@
+Copyright (c) 2026 Breadlab Studio. Todos los derechos reservados.
+
+Las imágenes de esta carpeta (logotipo, capturas de Stellar Engine, IA
+y Beware in the Dark) son propiedad de Breadlab Studio. No se autoriza
+su copia, modificación ni reutilización sin permiso previo por escrito.
